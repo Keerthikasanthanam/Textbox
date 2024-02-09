@@ -1,0 +1,17 @@
+#text{
+    width: 50%;
+    border: 1px solid #ccc;
+    min-height: 200px;
+    padding: 4px;
+    text-align: left;
+  }
+  
+  #controls {
+    margin-top: 10px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin-right: 5px;
+  }
